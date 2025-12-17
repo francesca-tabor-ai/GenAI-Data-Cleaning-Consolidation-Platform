@@ -1,0 +1,19 @@
+You are an expert Python developer and data engineer.
+
+I am a beginner who does not know how to code.
+
+I want to build a simple Streamlit web app that does the following:
+1. Allows users to upload CSV or Excel files
+2. Displays the uploaded data in a table
+3. Cleans the data by:
+   - Removing duplicate rows
+   - Handling missing values (fill empty cells with "N/A")
+   - Trimming extra spaces from text
+   - Standardizing column names (lowercase, replace spaces with underscores)
+4. Allows users to download the cleaned file as CSV or Excel
+
+Please:
+- Write the full working Python code
+- Use Streamlit and pandas
+- Explain the code step by step in simple language
+- Add comments in the code for beginners
